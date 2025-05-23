@@ -18,7 +18,7 @@ To get started:
 
 * Get the the [API key token and API security profile name](https://docs.paloaltonetworks.com/ai-runtime-security/administration/prevent-network-security-threats/api-intercept-create-configure-security-profile) (or API security profile ID).
 
-* Install `aisecurity` package using pip, set environment variables, and initialize the Python SDK. (Refer to the Python SDK [installation guide](https://docs.paloaltonetworks.com/ai-runtime-security/activation-and-onboarding/ai-runtime-security-api-intercept-overview/airs-apis-python-sdk) for detailed steps.)
+* Install `pan-aisecurity` package using pip, set environment variables, and initialize the Python SDK. (Refer to the Python SDK [installation guide](https://docs.paloaltonetworks.com/ai-runtime-security/activation-and-onboarding/ai-runtime-security-api-intercept-overview/airs-apis-python-sdk) for detailed steps.)
 
 * Create a Scanner instance referring to the Python SDK usage examples.
 A scanner instance performs security scans on your AI-generated content.
